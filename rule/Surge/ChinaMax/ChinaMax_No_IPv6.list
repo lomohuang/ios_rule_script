@@ -8380,7 +8380,6 @@ IP-CIDR,98.124.142.88/30,no-resolve
 IP-CIDR,98.96.246.0/23,no-resolve
 IP-CIDR,99.77.241.0/24,no-resolve
 IP-CIDR,99.83.96.0/24,no-resolve
-IP-ASN,132203,no-resolve
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
