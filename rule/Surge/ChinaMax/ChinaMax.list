@@ -5,7 +5,6 @@
 # DOMAIN: 295
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 111903
-# IP-ASN: 1
 # IP-CIDR: 8229
 # IP-CIDR6: 4214
 # PROCESS-NAME: 12
@@ -12518,7 +12517,6 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-IP-ASN,132203,no-resolve
 USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
